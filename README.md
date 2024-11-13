@@ -1,6 +1,7 @@
 
 
-# Toxicity Classification in Comments Using NLP and LSTM
+# Toxicity Classification in Comments Using Deep Learning
+
 ## Table of Contents
 ### Overview
 ### Project Structure

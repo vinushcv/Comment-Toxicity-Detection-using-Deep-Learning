@@ -1,6 +1,6 @@
 
 
-# Toxicity Classification in Comments Using Deep Learning
+# Comment Toxicity Detection using Deep Learning
 
 ## Table of Contents
 ### Overview

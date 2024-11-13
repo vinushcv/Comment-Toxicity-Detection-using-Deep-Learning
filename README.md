@@ -10,7 +10,7 @@
 ### Data Preprocessing
 ### Evaluation
 ### References
-### License
+
 ### Overview
 This project aims to classify toxicity in comments using deep learning, specifically Natural Language Processing (NLP) and Long Short-Term Memory (LSTM) networks. The model uses a multi-label classification approach to detect multiple types of toxicity in online comments, inspired by the 2022 research of A. Garlapati, N. Malisetty, and G. Narayanan in the 8th ICACCS.
 

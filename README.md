@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ```
 ### Usage
 1.Load the Dataset: Ensure the dataset is located in the data/ folder.
+
+
 2.Run the Notebook: Open Toxicity (1).ipynb in Jupyter Notebook or Jupyter Lab and execute the cells in order.
 
 ### Model Architecture
